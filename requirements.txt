@@ -1,3 +1,0 @@
-fastapi
-tweepy>=4.0.0
-uvicorn
